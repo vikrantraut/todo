@@ -1,0 +1,42 @@
+h1{
+    color:pink;
+    text-shadow:3px 3px 3px red;
+    font-family:arial;
+    text-align: center;
+  }
+  h2{
+    
+  }
+.section1{
+         
+         width: 500px;
+         margin-left:550px;
+         margin-right:300px;
+         margin-top:40px;
+
+}
+table{
+	width:500px;
+	text-align: center;
+	margin-top: 30px;
+	-webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+th{
+	background-color: lightblue;
+	text-align: center;
+	font-size: 18px;
+	font-family: cursive;
+
+}
+
+.td11{
+       margin: 8px 5px 8px 5px;
+}
+
+.td111{
+         border: thick solid #000;
+         border-radius: 5px;
+         
+}
